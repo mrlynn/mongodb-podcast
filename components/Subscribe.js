@@ -5,13 +5,13 @@ function Subscribe() {
         <li className="subscribe__link subscribe__link--itunes">
           <a
             target="_blank"
-            href="https://itunes.apple.com/ca/podcast/syntax-tasty-web-development-treats/id1253186678?mt=2"
+            href="https://podcasts.apple.com/us/podcast/the-mongodb-podcast/id1500452446"
             rel="noopener noreferrer"
           >
             iTunes
           </a>
         </li>
-        <li className="subscribe__link subscribe__link--overcast">
+        {/* <li className="subscribe__link subscribe__link--overcast">
           <a
             target="_blank"
             href="https://overcast.fm/itunes1253186678/syntax-tasty-web-development-treats"
@@ -19,17 +19,17 @@ function Subscribe() {
           >
             Overcast
           </a>
-        </li>
+        </li> */}
         <li className="subscribe__link subscribe__link--google">
           <a
             target="_blank"
-            href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkLnN5bnRheC5mbS9yc3M%3D"
+            href="https://podcasts.google.com/feed/aHR0cHM6Ly9tb25nb2RiLmxpYnN5bi5jb20vcnNz?sa=X&ved=2ahUKEwitjI-8wqLsAhX5gnIEHc7mAaUQ4aUDegQIARAC&hl=en"
             rel="noopener noreferrer"
           >
             Google Podcast
           </a>
         </li>
-        <li className="subscribe__link subscribe__link--stitcher">
+        {/* <li className="subscribe__link subscribe__link--stitcher">
           <a
             target="_blank"
             href="http://www.stitcher.com/s?fid=142440&refid=stpr"
@@ -37,8 +37,8 @@ function Subscribe() {
           >
             Stitcher
           </a>
-        </li>
-        <li className="subscribe__link subscribe__link--pocketcasts">
+        </li> */}
+        {/* <li className="subscribe__link subscribe__link--pocketcasts">
           <a
             target="_blank"
             href="http://pca.st/fmx9"
@@ -46,7 +46,7 @@ function Subscribe() {
           >
             PocketCasts
           </a>
-        </li>
+        </li> */}
         <li className="subscribe__link subscribe__link--googleplay">
           <a
             target="_blank"
