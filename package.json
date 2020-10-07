@@ -9,6 +9,7 @@
     "build": "next build",
     "start": "next start",
     "deploy": "now",
+    "export": "next export",
     "alias": "now alias",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix"

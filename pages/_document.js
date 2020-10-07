@@ -14,7 +14,7 @@ class SyntaxDocument extends Document {
           <meta property="og:description" content={description} />
           <meta
             property="og:image"
-            content={`https://mongodb.fm/static/syntax-banner.png`}
+            content={`https://mongodb.fm/static/mongodb-banner.png`}
           />
           <link rel="shortcut icon" href={`https://mongodb.com/favicon.ico`} />
           <style

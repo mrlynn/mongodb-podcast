@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fsickpicks","\u002Fshow\u002F[number]\u002F[slug]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()

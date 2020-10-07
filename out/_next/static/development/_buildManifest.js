@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {"/_error":["static\u002Fpages\u002F_error.js"],"/show/[number]/[slug]":["static\u002Fpages\u002Fshow\u002F[number]\u002F[slug].js"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
