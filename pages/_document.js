@@ -14,9 +14,9 @@ class SyntaxDocument extends Document {
           <meta property="og:description" content={description} />
           <meta
             property="og:image"
-            content={`https://syntax.fm/static/syntax-banner.png`}
+            content={`https://mongodb.fm/static/syntax-banner.png`}
           />
-          <link rel="shortcut icon" href={`https://syntax.fm/static/favicon.png`} />
+          <link rel="shortcut icon" href={`https://mongodb.com/favicon.ico`} />
           <style
             // eslint-disable-next-line react/no-danger
             dangerouslySetInnerHTML={{ __html: stylesheet.replace(/\n/g, '') }}
