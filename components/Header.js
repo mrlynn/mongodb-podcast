@@ -15,11 +15,11 @@ const Header = () => (
         <h2 className="tagline">Software, Data and All Things MongoDB</h2>
         <a
           target="_blank"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfQlAo1wXHiJMySdU-h8QMtfoz92aMS9eycEHXB6eRCLh8KHA/viewform"
+          href="https://community.mongodb.com"
           className="title__potluck-btn"
           rel="noopener noreferrer"
         >
-          Ask a Potluck Question →
+          Visit us in the Community Forum →
         </a>
       </div>
       <div className="people">

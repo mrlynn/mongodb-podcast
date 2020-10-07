@@ -15,8 +15,8 @@
   },
   "now": {
     "alias": [
-      "syntax",
-      "syntax.fm"
+      "mongodb",
+      "mongodbpodcast.com"
     ]
   },
   "dependencies": {
