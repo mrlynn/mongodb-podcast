@@ -1,7 +1,7 @@
 ---
 number: 3
-title: CSS Preprocessors and Structuring CSS
-date: 1500465600000
+title: Collecting Feedback with Canny.io
+date: 1585094400000
 url: https://traffic.libsyn.com/syntax/Syntax003.mp3
 ---
 
@@ -50,11 +50,10 @@ Limited Sale Price: $39.99 ~~$49.99~~
 
 Learn the new industry standard for web design. Become an expert in the app that is changing how designers work in the modern web and app design world.
 
-**_Animate Your Ideas, Design Better Apps_**
-
-Principle makes it easy to design animated and interactive user interfaces. Whether you're designing the flow of a multi-screen app, or new interactions and animations, Principle lets you create designs that look and feel amazing.
+## Links and References
+#### 
 
 #### Twitter
- * [@wesbos](https://twitter.com/wesbos)
- * [@stolinski](https://twitter.com/stolinski)
- * Make sure to include [@SyntaxFM](https://twitter.com/SyntaxFM) in your tweets
+ * [@mlynn](https://twitter.com/mlynn)
+ * [@nraboy](https://twitter.com/nraboy)
+ * Make sure to include [@MongoDB](https://twitter.com/MongoDB) in your tweets
