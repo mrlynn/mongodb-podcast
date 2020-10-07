@@ -2,7 +2,7 @@
 number: 2
 title: Developing with GraphQL and MongoDB
 date: 1583971200000
-url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/preview/mongodb/Developing_with_GraphQL_and_MongoDB_-_3_11_20_3.27_PM.mp3
+url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/Developing_with_GraphQL_and_MongoDB_-_3_11_20_3.27_PM.mp3
 ---
 
 ## Show Notes

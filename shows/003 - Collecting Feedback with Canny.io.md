@@ -2,54 +2,18 @@
 number: 3
 title: Collecting Feedback with Canny.io
 date: 1585094400000
-url: https://traffic.libsyn.com/syntax/Syntax003.mp3
+url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/MongoDB_Podcast_Canny.io.mp3
 ---
 
 ## Show Notes
 
-* [WesBos Website](http://wesbos.com)
-* [Level Up Tutorials](https://leveluptutorials.com)
-* [GraphQL](http://graphql.org)
-* [Dinosaur JS Conference](https://dinosaurjs.org)
-* [Angular](https://angular.io)
-* [Pug / Jade](https://pugjs.org/api/getting-started.html)
-* [EJS](http://www.embeddedjs.com)
-* [BEM Methodology](https://en.bem.info/methodology/)
-* [Stylus](http://stylus-lang.com)
-* [Rupture](http://jescalan.github.io/rupture/)
-* [Less](http://lesscss.org)
-* [Sass](http://sass-lang.com)
-* [PostCSS](http://postcss.org)
-* [PostCSS Autoprefixer](https://github.com/postcss/autoprefixer)
-* [RuckSack](https://www.rucksackcss.org/)
-* [cssnext](http://cssnext.io)
-* [LostGrid](http://lostgrid.org)
-* [Bootstrap](http://getbootstrap.com)
-* [Haml](http://haml.info)
-* [Babel](https://babeljs.io)
-* [Flickity Plugin](https://flickity.metafizzy.co)
-* [webpack](https://webpack.js.org)
-* [Compass](http://compass-style.org)
-* [React](https://facebook.github.io/react/)
+In this episode we're talking to Andrew Rasmussen from Canny, a feedback collection tool for developers and organizations to include within their products. Canny is currently using MongoDB and is part of the MongoDB for startups program.
 
-## Sick Picks
+More information about Canny can be found at [canny.io](https://canny.io).
 
-* Wes:
-  * [Bartender 2](https://www.macbartender.com)
-  * [Vanilla](http://matthewpalmer.net/vanilla/)
-* Scott: [Power Blocks](http://www.powerblock.com)
+## Sponsor
 
-## Shameless Plugs
-
-#### [JavaScript30](https://javascript30.com)
-A Free 30 Day Vanilla JS Coding Challenge Course. Build 30 things in 30 days with 30 tutorials.
-No Frameworks No Compilers No Libraries No Boilerplate. Join 101,746 others.
-
-#### [The Sketch Course & UX Prototyping with Principle Combo](https://store.leveluptutorials.com/products/tutorials/lut-dd013008)
-Limited Sale Price: $39.99 ~~$49.99~~
-
-Learn the new industry standard for web design. Become an expert in the app that is changing how designers work in the modern web and app design world.
-
+* [MongoDB Atlas](https://cloud.mongodb.com) - Get a free instance of MongoDB up and running in about 5 minutes.
 ## Links and References
 #### 
 

@@ -2,7 +2,7 @@
 number: 6
 title: Five Ways to Reduce Costs with MongoDB Atlas💰
 date: 1588723200000
-url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/preview/mongodb/Updated-5-Ways-Mike_-_4_13_20-b.mp3
+url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/Updated-5-Ways-Mike_-_4_13_20-b.mp3
 ---
 
 ## Sponsor
