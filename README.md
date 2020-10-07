@@ -1,8 +1,6 @@
-# Syntax.
+# MongoDB Podcast
 
-A tasty treats podcast for Web Developers.
-
-This is the site that runs [Syntax.fm](https://syntax.fm) — go there to listen to it!
+Software. Data. All things MongoDB
 
 This site is built on React and Next.js
 
