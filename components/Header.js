@@ -12,6 +12,7 @@ const Header = () => (
     </div>
     <div className="header__right">
       <div className="title">
+         <h1>The MongoDB Podcast</h1>
         <h2 className="tagline">Software, Data and All Things MongoDB</h2>
         <a
           target="_blank"
