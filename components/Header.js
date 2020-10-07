@@ -42,6 +42,14 @@ const Header = () => (
           <p>
             Developer Advocate, Engineer, Speaker, Fitgeek{' '}
           </p>
+          <p>
+            <a
+            target="_blank"
+            href="https://linkedin.com/in/mlynn"
+            className="person__social person__social--twitter"
+            rel="noopener noreferrer"
+          >LinkedIn</a>
+          </p>
         </div>
 
         <div className="person">

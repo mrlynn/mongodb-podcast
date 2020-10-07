@@ -11,15 +11,15 @@ function Subscribe() {
             iTunes
           </a>
         </li>
-        {/* <li className="subscribe__link subscribe__link--overcast">
+        <li className="subscribe__link subscribe__link--iheartradio">
           <a
             target="_blank"
-            href="https://overcast.fm/itunes1253186678/syntax-tasty-web-development-treats"
+            href="https://www.iheart.com/podcast/269-the-mongodb-podcast-60738931/"
             rel="noopener noreferrer"
           >
-            Overcast
+            iHeartRadio
           </a>
-        </li> */}
+        </li>
         <li className="subscribe__link subscribe__link--google">
           <a
             target="_blank"
@@ -29,37 +29,10 @@ function Subscribe() {
             Google Podcast
           </a>
         </li>
-        {/* <li className="subscribe__link subscribe__link--stitcher">
-          <a
-            target="_blank"
-            href="http://www.stitcher.com/s?fid=142440&refid=stpr"
-            rel="noopener noreferrer"
-          >
-            Stitcher
-          </a>
-        </li> */}
-        {/* <li className="subscribe__link subscribe__link--pocketcasts">
-          <a
-            target="_blank"
-            href="http://pca.st/fmx9"
-            rel="noopener noreferrer"
-          >
-            PocketCasts
-          </a>
-        </li> */}
-        <li className="subscribe__link subscribe__link--googleplay">
-          <a
-            target="_blank"
-            href="https://playmusic.app.goo.gl/?ibi=com.google.PlayMusic&isi=691797987&ius=googleplaymusic&link=https://play.google.com/music/m/Ityd325x5s5ivr3fc74hvvgeztu?t%3DSyntax_-_Tasty_Web_Development_Treats%26pcampaignid%3DMKT-na-all-co-pr-mu-pod-16"
-            rel="noopener noreferrer"
-          >
-            Google Play
-          </a>
-        </li>
         <li className="subscribe__link subscribe__link--spotify">
           <a
             target="_blank"
-            href="https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=bOe7-kl6RnOHapMsVnFWgw"
+            href="https://open.spotify.com/show/0ibUtrJG4JVgwfvB2MXMSb"
             rel="noopener noreferrer"
           >
             Spotify
@@ -68,7 +41,7 @@ function Subscribe() {
         <li className="subscribe__link subscribe__link--rss">
           <a
             target="_blank"
-            href="http://feed.syntax.fm/rss"
+            href="https://mongodb.libsyn.com/rss"
             rel="noopener noreferrer"
           >
             RSS
