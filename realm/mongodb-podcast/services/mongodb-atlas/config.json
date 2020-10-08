@@ -1,0 +1,11 @@
+{
+    "id": "5f7ec2d067d756797d615780",
+    "name": "mongodb-atlas",
+    "type": "mongodb-atlas",
+    "config": {
+        "clusterName": "tasktracker",
+        "readPreference": "primary",
+        "wireProtocolEnabled": false
+    },
+    "version": 1
+}
