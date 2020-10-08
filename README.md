@@ -7,6 +7,9 @@ This site is built on React and Next.js
 ## Requirements
 - Node 8.1.2 or higher
 
+## Credits
+- Syntax.fm - Wes Bos developed this codebase for use with Syntax.fm.  This site was forked from their work.
+
 ## Development
 
 First you `npm install`
