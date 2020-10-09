@@ -35,7 +35,7 @@
     "next-url-prettifier": "1.4.0",
     "now": "16.7.3",
     "postcss-easy-import": "3.0.0",
-    "postcss-loader": "3.0.0",
+    "postcss-loader": "4.0.4",
     "prop-types": "15.7.2",
     "raw-loader": "3.1.0",
     "react": "16.13.1",
