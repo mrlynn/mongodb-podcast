@@ -56,7 +56,7 @@
     "eslint-plugin-react": "7.20.0",
     "eslint-plugin-react-hooks": "2.5.1",
     "prettier": "1.19.1",
-    "stylus": "0.54.7",
+    "stylus": "0.54.8",
     "stylus-loader": "3.0.2"
   }
 }
