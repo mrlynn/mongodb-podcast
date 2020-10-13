@@ -12,7 +12,8 @@
     "export": "next export",
     "alias": "now alias",
     "lint": "eslint .",
-    "lint:fix": "eslint . --fix"
+    "lint:fix": "eslint . --fix",
+    "build:rss": "node ./.next/serverless/scripts/generate-rss.js"
   },
   "now": {
     "alias": [
@@ -26,10 +27,13 @@
     "babel-loader": "^8.1.0",
     "babel-plugin-module-resolver": "3.2.0",
     "babel-plugin-wrap-in-js": "^1.1.1",
+    "cache-posts": "node scripts/cache.js",
     "cors": "^2.8.5",
     "date-fns": "^2.7.0",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "glob": "7.1.6",
+    "gray-matter": "^4.0.2",
     "meta-marked": "^0.4.2",
     "next": "^9.4.5-canary.18",
     "next-url-prettifier": "^1.4.0",
@@ -41,7 +45,13 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-icons": "^3.8.0",
+    "rss": "^1.2.2",
     "speakingurl": "^14.0.1"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm run cache-posts && git add cache/data.js"
+    }
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",

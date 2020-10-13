@@ -3,6 +3,7 @@ number: 16
 title: Low-code and no-code Application Development with AppFarm and MongoDB
 date: 1597881600000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/MongoDB_Podcast_-_AppFarm_with_Marius_Tuft_Mathisen_and_Ole_Borgersen.mp3
+excerpt: We dive into low-code and no-code application development with AppFarm co-founders Marius Tuft Mathisen and Ole Borgersen. Learn how they are using MongoDB Atlas on GCP to build and scale their rapid application development platform.
 ---
 
 We dive into low-code and no-code application development with AppFarm co-founders Marius Tuft Mathisen and Ole Borgersen. Learn how they're using MongoDB Atlas on GCP to build and scale their rapid application development platform.

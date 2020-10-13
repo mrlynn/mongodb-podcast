@@ -3,6 +3,7 @@ number: 6
 title: Five Ways to Reduce Costs with MongoDB Atlas💰
 date: 1588723200000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/Updated-5-Ways-Mike_-_4_13_20-b.mp3
+excerpt: There's never been a more important time to reduce the amount of money you're spending on your application infrastructure. This brief episode will provide some important ways you can reduce your overall costs while managing and maintaining your applications and data in MongoDB Atlas.
 ---
 
 ## Sponsor

@@ -3,6 +3,7 @@ number: 9
 title: MongoDB Data Security
 date: 1592265600000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/zinc-final-no-deep-voice.mp3
+excerpt: In this episode we sit down with Chris Edgington of Zinc. He shares with us how their platform automates the purchasing process with large retailers such as Amazon, BestBuy, Costco and more. More information about Zinc is available at 
 ---
 
 In this episode we sit down with Chris Edgington of Zinc. He shares with us how their platform automates the purchasing process with large retailers such as Amazon, BestBuy, Costco and more. More information about Zinc is available at [ZincAPI](https://ZincAPI.com)

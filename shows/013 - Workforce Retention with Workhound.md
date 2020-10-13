@@ -3,6 +3,7 @@ number: 13
 title: Workforce Retention with Workhound
 date: 1594857600000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/MongoDB_Podcast_-_WorkHound.mp3
+excerpt: Were talking to Andrew Kerpulani from Workhound, which allows businesses with workers a tool to get feedback right from their workers directly in the field.
 ---
 
 We’re talking to Andrew Kerpulani from Workhound, which allows businesses with workers a tool to get feedback right from their workers directly in the field.

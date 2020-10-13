@@ -3,6 +3,7 @@ number: 1
 title: Location Aware App Experiences with Radar.io
 date: 1582588800000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/MongoDB_Podcast_-_Radar.mp3
+excerpt: We speak with Nick Patrick, Co-Founder and CEO of Radar, a startup in the MongoDB for Startups Program. Radar focuses on providing location-aware application experiences to developers. We're diving deep into the data location space in this episode. Hear about what Radar's application does, why Radar's team started the company and how, their tech stack, learn about what geospatial queries and indexing are, and why they've used MongoDB from the beginning for its rich geolocation support. 
 ---
 
 ## Show Notes

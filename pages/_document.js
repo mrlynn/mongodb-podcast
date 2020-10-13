@@ -3,6 +3,10 @@ import { description } from '../package.json';
 import stylesheet from '../styles/style.styl';
 
 class SyntaxDocument extends Document {
+   static async getInitialProps(ctx) {
+      const initialProps = await Document.getInitialProps(ctx)
+      return { ...initialProps }
+   }
   render() {
     return (
       <Html lang="en">

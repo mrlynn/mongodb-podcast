@@ -3,6 +3,7 @@ number: 18
 title: Thena with Kieran Peppiatt
 date: 1600214400000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/The_MongoDB_Podcast_-_Thena_with_Kieran.mp3
+excerpt: Learn how Thena uses MongoDB to capture notes and other action items in meetings, allowing users to focus on the meeting itself. This episode features Kieran Peppiatt, Founder and CEO of Thena.
 ---
 
 Learn how Thena uses MongoDB to capture notes and other action items in meetings, allowing users to focus on the meeting itself.

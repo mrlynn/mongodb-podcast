@@ -3,6 +3,7 @@ number: 17
 title: MongoDB Realm with Shane McAllister
 date: 1599696000000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/The_MongoDB_Podcast_-_Realm_with_Shane_McAllister.mp3
+excerpt: In this episode we are joined by Shane McAllister from MongoDB and we are talking about Realm. If you have been keeping up with the podcast you will remember a MongoDB Stitch episode which covered some of the technology and services that Realm offers. This particular episode is centered around mobile development with Realm and why it's such a critical component in developing amazing applications.
 ---
 
 Learn how to simplify your application development with MongoDB Realm.

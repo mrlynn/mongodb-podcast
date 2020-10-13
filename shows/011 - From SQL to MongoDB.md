@@ -3,6 +3,7 @@ number: 11
 title: From SQL to MongoDB
 date: 1594339200000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/SQL_to_NoSQL_with_Lauren_Schaeffer.mp3
+excerpt: Were joined by Developer Advocate Lauren Schaefer and guest host Rebecca Mosner, Social Media Manager, to talk about migration from SQL to MongoDB. Learn more about Laurens background, some of the things shes done prior to joining MongoDB, and how to approach MongoDB from the perspective of someone familiar with SQL. Check out Lauren's series on SQL to NoSQL migration on developer.mongodb.com
 ---
 
 We're joined by Developer Advocate Lauren Schaefer and guest host Rebecca Mosner, Social Media Manager, to talk about migration from SQL to MongoDB. Learn more about Lauren's background, some of the things she’s done prior to joining MongoDB, and how to approach MongoDB from the perspective of someone familiar with SQL. Check out Lauren's series on SQL to NoSQL migration on developer.mongodb.com

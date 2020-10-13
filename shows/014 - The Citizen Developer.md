@@ -3,6 +3,7 @@ number: 14
 title: Citizen Developer with Dominic Wellington
 date: 1596067200000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/MongoDB_Podcast_-_Citizen_Developer_with_Dominic_Wellington.mp3
+excerpt: In todays episode, we explore the journey someone who is not a full-time developer takes when they approach a problem equipped with the MongoDB platform as a solution. We are joined by Dominic Wellington, Director of Market Intelligence. 
 ---
 
 In today's episode, we explore the journey someone who is not a full-time developer takes when they approach a problem equipped with the MongoDB platform as a solution. We're joined by Dominic Wellington, Director of Market Intelligence. 

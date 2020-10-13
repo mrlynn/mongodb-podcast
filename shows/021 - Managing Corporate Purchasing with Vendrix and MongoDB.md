@@ -3,6 +3,7 @@ number: 21
 title: Managing Corporate Purchasing with Vendrix and MongoDB
 date: 1602028800000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/preview/mongodb/vendrix-david-stewart_-_5_9_20_6.44_AM.mp3
+excerpt: Managing the corporate credit cards of your business can be complicated, but it doesn't have to be. Learn how Vendrix leverages MongoDB as the safe and secure data layer for their credit card management system.
 ---
 
 Managing the corporate credit cards of your business can be complicated, but it doesn't have to be. Learn how Vendrix leverages MongoDB as the safe and secure data layer for their credit card management system.

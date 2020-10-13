@@ -3,6 +3,7 @@ number: 4
 title: Digital Mortgages with Koodoo
 date: 1501020859844
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/Koodoo_-_42220_8.16_AM.mp3
+excerpt: In this episode we're talking to Ieuan Jenkins from Koodoo, a digital mortgage platform bringing lenders and aggregators to the modern world. Koodoo is currently using MongoDB and is part of the MongoDB for Startups program.
 ---
 
 ## Show Notes

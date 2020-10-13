@@ -32,6 +32,7 @@ class VolumeBars extends Component {
     if (localStorageRef) {
       this.setState({ volumeBarList: JSON.parse(localStorageRef) });
     }
+    
   }
 
   componentDidUpdate() {

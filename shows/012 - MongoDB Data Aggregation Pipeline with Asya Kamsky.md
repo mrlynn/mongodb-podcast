@@ -3,6 +3,7 @@ number: 12
 title: Introduction to the MongoDB Aggregation Framework
 date: 1594771200000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/SQL_to_NoSQL_with_Lauren_Schaeffer.mp3
+excerpt: Our built-in aggregation framework is a powerful tool for performing analytics in real-time. Were joined by Asya Kamsky to talk about the foundations of the MongoDB Aggregation Framework, how it works, and how to use it. 
 ---
 
 Our built-in aggregation framework is a powerful tool for performing analytics in real-time. We're joined by Asya Kamsky to talk about the foundations of the MongoDB Aggregation Framework, how it works, and how to use it. 
