@@ -26,7 +26,6 @@
     "axios": "0.20.0",
     "babel-loader": "8.1.0",
     "babel-plugin-module-resolver": "3.2.0",
-<<<<<<< HEAD
     "babel-plugin-wrap-in-js": "^1.1.1",
     "cache-posts": "node scripts/cache.js",
     "cors": "^2.8.5",
@@ -48,25 +47,6 @@
     "react-icons": "^3.8.0",
     "rss": "^1.2.2",
     "speakingurl": "^14.0.1"
-=======
-    "babel-plugin-wrap-in-js": "1.1.1",
-    "cors": "2.8.5",
-    "date-fns": "2.16.1",
-    "express": "4.17.1",
-    "glob": "7.1.6",
-    "meta-marked": "0.4.2",
-    "next": "9.4.5-canary.18",
-    "next-url-prettifier": "1.4.0",
-    "now": "16.7.3",
-    "postcss-easy-import": "3.0.0",
-    "postcss-loader": "3.0.0",
-    "prop-types": "15.7.2",
-    "raw-loader": "3.1.0",
-    "react": "16.13.1",
-    "react-dom": "16.13.1",
-    "react-icons": "3.11.0",
-    "speakingurl": "14.0.1"
->>>>>>> 192bdf4096e7166759e9f008c5019209b845cad4
   },
   "husky": {
     "hooks": {
