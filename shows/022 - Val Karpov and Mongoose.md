@@ -3,7 +3,7 @@ number: 21
 title: Managing Corporate Purchasing with Vendrix and MongoDB
 date: 1602633600000
 url: http://chtbl.com/track/4AA7A2/traffic.libsyn.com/mongodb/val_karpov_mongoose.mp3
-excerpt: Managing the corporate credit cards of your business can be complicated, but it doesn't have to be. Learn how Vendrix leverages MongoDB as the safe and secure data layer for their credit card management system.
+excerpt: MongooseJS is one of the most popular NPM downloads available today. In this episode we chat with Val Karpov, the maintainer to find out why it's so popular, why developers should, and should not use it some use cases.
 ---
 
 Val Karpov is the maintainer of the Mongoose ODM.
