@@ -27,7 +27,6 @@
     "babel-loader": "8.1.0",
     "babel-plugin-module-resolver": "3.2.0",
     "babel-plugin-wrap-in-js": "^1.1.1",
-    "cache-posts": "node scripts/cache.js",
     "cors": "^2.8.5",
     "date-fns": "^2.7.0",
     "dotenv": "^8.2.0",
@@ -35,6 +34,7 @@
     "glob": "7.1.6",
     "gray-matter": "^4.0.2",
     "meta-marked": "^0.4.2",
+    "mongodb": "^3.6.2",
     "next": "^9.4.5-canary.18",
     "next-url-prettifier": "^1.4.0",
     "now": "^16.7.2",
@@ -45,6 +45,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-icons": "^3.8.0",
+    "realm-web": "^1.0.0",
     "rss": "^1.2.2",
     "speakingurl": "^14.0.1"
   },

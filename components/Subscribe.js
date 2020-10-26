@@ -1,4 +1,7 @@
 function Subscribe() {
+
+
+
   return (
     <div className="subscribe">
       <ul className="subscribe__links">
@@ -46,6 +49,11 @@ function Subscribe() {
           >
             RSS
           </a>
+        </li>
+        <li className="subscribe__link search">
+          <form method="get" action="/search">
+            <input type="text" name="q" placeholder="search" />
+          </form>
         </li>
       </ul>
     </div>
