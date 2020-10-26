@@ -17,7 +17,7 @@ function postData() {
       // ML: maybe add tags array here???
     }
   })
-  return `export const posts = ${JSON.stringify(posts)}`
+  return `module.exports = ${JSON.stringify(posts)}`
 }
 
 try {
@@ -25,6 +25,7 @@ try {
 } catch (e) {
   fs.mkdirSync('cache')
 }
+
 
 fs.writeFile('cache/data.js', postData(), function (err) {
   if (err) return console.log(err);
