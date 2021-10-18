@@ -22,7 +22,7 @@
     ]
   },
   "dependencies": {
-    "autoprefixer": "9.8.6",
+    "autoprefixer": "9.8.8",
     "axios": "0.20.0",
     "babel-loader": "8.1.0",
     "babel-plugin-module-resolver": "3.2.0",
